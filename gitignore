@@ -1,0 +1,10 @@
+# Игнорировать файлы и директории, созданные IDE и редакторами кода
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
+.idea
+venv
+**/__pycache__
+.pytest_cache
